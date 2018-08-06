@@ -1,0 +1,17 @@
+h1{
+	font-size: 4rem;
+	font-weight: lighter;
+	color: blue;
+	position: absolute;
+	top: 50%;
+	right: 50%;
+	margin: -91px -150px 0px 0px;
+	transition: transform ease-in-out 0.5s, color ease-in-out 1s;
+	 transition-delay: 0.1s;
+
+	
+}
+h1:hover{
+	transform: scale(1.2);
+	color: red;
+}

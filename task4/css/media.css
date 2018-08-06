@@ -1,0 +1,45 @@
+@media screen and (min-width:  986px){
+	
+	.left-burger{
+		display: none;
+	}
+	.right-burger{
+		display: none;
+	}
+}
+
+ @media screen and (max-width: 985px){
+ 	.conteiner{
+	 width: 99%;
+	}
+	.news-feed{
+	width: 75%;
+	} 
+	.right-side{
+		display: none;
+	}
+	.right-burger{
+		display: none;
+	}
+} 
+
+@media screen and (max-width: 765px){
+	h1{
+		display: none;
+	}
+.right-burger{
+		display: block;
+	} 
+	.right-side{
+		display: none;
+	}
+	.left-side{
+		display: none;
+	}
+	.news-feed{
+		width: 100%;
+	} 
+	.conteiner{
+	 width: 99%;
+	}
+}
