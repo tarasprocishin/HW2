@@ -55,7 +55,8 @@ p{
 .dark-grey-small{
 	width: 203px;
 	height: 62px;
-	margin: 5px;
+	margin: 8px 5px 0px 5px;
+
 }
 .dark-grey-small p{
 	line-height: 60px;
